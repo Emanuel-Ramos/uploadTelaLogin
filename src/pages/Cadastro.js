@@ -30,7 +30,7 @@ export default function Login(){
     })
     .catch( (error) => {
         alert('Ops algo deu errado!');
-        console.log(error);s
+        console.log(error);
         return;
     })
 
